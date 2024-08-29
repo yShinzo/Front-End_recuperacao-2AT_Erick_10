@@ -58,6 +58,10 @@ nav a{
     font-family: 'Shrikhand';
 }
 
+nav a:hover {
+    background-color: rgb(203, 255, 192);
+}
+
 .logo {
     max-width: 100%;
     height: auto;
