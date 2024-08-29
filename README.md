@@ -1,2 +1,2 @@
-Este é um {c:red}texto vermelho.{/c}
+# <font color=\"red\">Texto com cor vermelha</font>
 Recuperação de Front End
