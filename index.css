@@ -12,7 +12,7 @@ body {
 
 /* Estilos do Header */
 header {
-    background-color: #6e6262;
+    background-color: #813535;
     color: #fff;
     padding: 1em 0;
     text-align: center;
@@ -29,7 +29,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #dd1d1d;
+    color: #413737;
     text-decoration: none;
 }
 
