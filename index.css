@@ -42,7 +42,7 @@ main {
 .product-image {
     max-width: 100%;
     height: auto;
-    opacity: 0.8; /* Imagem com transparência */
+    opacity: 0.8;
 }
 
 /* Estilos do Footer */
