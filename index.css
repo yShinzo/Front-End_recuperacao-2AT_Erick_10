@@ -9,7 +9,10 @@ body {
     margin: 0;
     padding: 0;
 }
-
+tenor-gif-embed{
+    text-align: left;
+    padding: 10px;
+}
 /* Estilos do Header */
 header {
     background-color: #813535;
