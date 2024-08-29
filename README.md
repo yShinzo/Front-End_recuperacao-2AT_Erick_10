@@ -5,4 +5,4 @@ Recuperação de Front End
 
 
 
-<font color=\"red\">Texto com cor vermelha</font>	
+<font color=red>Texto com cor vermelha</font>	
