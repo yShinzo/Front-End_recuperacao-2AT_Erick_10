@@ -4,62 +4,40 @@ body {
 }
 
 /* Fundo em Gradient */
-body{
-    background: linear-gradient(to bottom, #f16f03, #dac1c1);
-}
-h1{
-    font-family: 'Shrikhand', sans-serif;
-    text-align: center;
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 1800px;
-}
-h2{
-    font-family: 'League Spartan', sans-serif;
+body {
+    background: linear-gradient(to right, #fd6c47, #fa9f59);
     margin: 0;
     padding: 0;
-    text-decoration: none;
-    font-size: 55px;
 }
-
-p{
-    font-family: 'Shrikhand', sans-serif;
-    margin: 0;
-    padding: 0;
-    font-size: 18px;
-}
-
-main{
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 1000px;
-}
-
-footer{
-    padding: 20px;
-    margin: 0 auto;
-    max-width: 800px;
-    text-align: center;
-    float: center;
 
 
 /* Estilos do Header */
 header {
-    background-color: #006634;
-    color: white;
+    background-color: #813535;
+    color: #fff;
+    padding: 1em 0;
     text-align: center;
 }
 
-nav{
-    text-decoration: none;
-    color: #333;
-    padding: 5px 10px;
-    border-radius: 5px;
-    font-family: 'Shrikhand';
+nav ul {
+    list-style: none;
+    padding: 0;
 }
 
-nav a:hover {
-    background-color: rgb(203, 255, 192);
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: #413737;
+    text-decoration: none;
+}
+
+/* Estilos do Main */
+main {
+    padding: 2em;
+    text-align: center;
 }
 
 .logo {
@@ -68,9 +46,9 @@ nav a:hover {
     opacity: 0.8;
 }
 
-.content {
-    overflow: hidden;
+/* Estilos do Footer */
+footer {
+    text-align: center;
 }
-img {
-    opacity: 0.5;
-}
+
+
