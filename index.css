@@ -1,1 +1,64 @@
+/* Fonte externa */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Fundo em Gradient */
+body {
+    background: linear-gradient(to right, #fd6c47, #fa9f59);
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos do Header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: #423939;
+    text-decoration: none;
+}
+
+/* Estilos do Main */
+main {
+    padding: 2em;
+    text-align: center;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+    opacity: 0.8; /* Imagem com transparência */
+}
+
+/* Estilos do Footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Pseudo-elemento */
+footer::before {
+    content: "Loja Exemplo - ";
+    font-weight: bold;
+}
 
