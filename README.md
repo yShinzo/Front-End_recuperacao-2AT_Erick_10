@@ -1,2 +1,2 @@
-# <font color:purple>Creatina Pura</font color>
+# {c:purple} Creatina pura {/c}
 Recuperação de Front End
