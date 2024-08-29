@@ -58,7 +58,6 @@ footer {
 
 /* Pseudo-elemento */
 footer::before {
-    content: "Loja Exemplo - ";
     font-weight: bold;
 }
 
