@@ -1,8 +1,12 @@
 /* Fonte externa */
 body {
-    font-family: 'Shirikhand', sans-serif;
+    font-family: 'Shrikhand', sans-serif;
 }
 h1{
+    font-family: 'Shrikhand';
+}
+
+h2{
     font-family: 'League Spartan';
 }
 /* Fundo em Gradient */
@@ -22,15 +26,14 @@ nav a{
 
 nav a:hover {
     background-color: rgb(255, 0, 200)
-
+}
 /* Estilos do Header */
 header {
     background-color: #813535;
-    color: #ffffff;
+    color:rgb(255, 0, 200);
     padding: 1em 0;
     text-align: center;
 }
-
 /* Estilos do Main */
 main {
     padding: 2em;
