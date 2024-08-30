@@ -55,3 +55,35 @@ footer {
 }
 
 
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    width: calc(33.333% - 40px); /* 3 produtos por linha com gap de 20px */
+    box-sizing: border-box;
+}
+
+.product-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.product-item h3 {
+    margin: 10px 0;
+    font-size: 1.2em;
+}
+
+.product-item p {
+    color: #555;
+    font-size: 1em;
+}
