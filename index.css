@@ -87,3 +87,14 @@ footer {
     color: #555;
     font-size: 1em;
 }
+
+.logo-container {
+    text-align: center; /* Centraliza a logo horizontalmente */
+    margin-bottom: 20px; /* Espaço abaixo da logo */
+}
+
+.logo {
+    max-width: 100px; /* Define a largura máxima da logo */
+    height: auto; /* Mantém a proporção da imagem */
+    border-radius: 8px; /* Adiciona cantos arredondados */
+}
