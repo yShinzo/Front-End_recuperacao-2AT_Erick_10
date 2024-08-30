@@ -11,7 +11,7 @@ h2{
 }
 /* Fundo em Gradient */
 body {
-    background: linear-gradient(to right, #fd6c47, #fa9f59);
+    background: linear-gradient(to right, #f55932, #ffa561);
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ nav a:hover {
 /* Estilos do Header */
 header {
     background-color: #813535;
-    color:rgb(255, 0, 200);
+    color:rgb(255, 255, 255);
     padding: 1em 0;
     text-align: center;
 }
