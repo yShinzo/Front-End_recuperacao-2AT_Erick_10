@@ -93,14 +93,3 @@ footer {
     font-size: 1em;
 }
 
-.logo-container {
-    text-align: center; /* Centraliza a logo horizontalmente */
-    margin-bottom: 20px; /* Espaço abaixo da logo */
-    width: 50px; /* Ajuste o tamanho conforme necessário */
-    height: auto;
-}
-
-.logo {
-    border-radius: 8px; /* Adiciona cantos arredondados */
-    opacity: 0.8;
-}
