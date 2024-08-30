@@ -115,3 +115,7 @@ iframe {
     justify-content: center;
     align-items: center;
 }
+
+.video-borda {
+    border: 5px solid #000; /* Borda de 5 pixels, preta */
+}
