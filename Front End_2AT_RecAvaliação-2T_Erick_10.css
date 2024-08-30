@@ -40,9 +40,8 @@ header {
 }
 
 .header-content {
-    display: flex;
-    align-items: center;
-    gap: 10px; /* Espaço entre a logo e o título */
+    display: flex;  /* Mantém os elementos em linha */
+    align-items: center;  /* Centraliza verticalmente */
 }
 
 /* Estilos do Main */
@@ -102,8 +101,6 @@ footer {
 }
 
 .logo {
-    max-width: 100px; /* Define a largura máxima da logo */
-    height: auto; /* Mantém a proporção da imagem */
     border-radius: 8px; /* Adiciona cantos arredondados */
     opacity: 0.8;
 }
