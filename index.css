@@ -2,7 +2,9 @@
 body {
     font-family: 'Shirikhand', sans-serif;
 }
-
+h1{
+    font-family: 'League Spartan';
+}
 /* Fundo em Gradient */
 body {
     background: linear-gradient(to right, #fd6c47, #fa9f59);
@@ -19,7 +21,7 @@ nav a{
 }
 
 nav a:hover {
-    background-color: rgb(203, 255, 192);
+    background-color: rgb(255, 0, 200)
 
 /* Estilos do Header */
 header {
