@@ -10,15 +10,6 @@ body {
     padding: 0;
 }
 
-
-/* Estilos do Header */
-header {
-    background-color: #813535;
-    color: #fff;
-    padding: 1em 0;
-    text-align: center;
-}
-
 nav a{
     text-decoration: none;
     color: #333;
@@ -29,6 +20,13 @@ nav a{
 
 nav a:hover {
     background-color: rgb(203, 255, 192);
+
+/* Estilos do Header */
+header {
+    background-color: #813535;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
 }
 
 /* Estilos do Main */
