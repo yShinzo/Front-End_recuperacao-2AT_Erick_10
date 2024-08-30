@@ -11,7 +11,6 @@ h2{
 }
 /* Fundo em Gradient */
 body {
-    background: linear-gradient(to right, #f55932, #ffa561);
     background: linear-gradient(to bottom, #f55932, #ffa561);
     margin: 0;
     padding: 0;
