@@ -41,7 +41,7 @@ main {
 }
 
 .logo {
-    max-width: 100%;
+    width: 200;
     height: auto;
     opacity: 0.8;
 }
