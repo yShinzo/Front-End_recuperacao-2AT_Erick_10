@@ -39,12 +39,7 @@ main {
     padding: 2em;
     text-align: center;
 }
-
-.logo {
-    width: 200;
-    height: auto;
-    opacity: 0.8;
-}
+    
 
 /* Estilos do Footer */
 footer {
@@ -97,4 +92,5 @@ footer {
     max-width: 100px; /* Define a largura máxima da logo */
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 8px; /* Adiciona cantos arredondados */
+    opacity: 0.8;
 }
