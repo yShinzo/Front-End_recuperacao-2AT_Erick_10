@@ -49,6 +49,9 @@ main {
 
 /* Estilos do Footer */
 footer {
+    background-color: #813535;
+    color:rgb(255, 255, 255);
+    padding: 1em 0;
     text-align: center;
 }
 
